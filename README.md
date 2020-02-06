@@ -1,3 +1,7 @@
+**Resolved:** https://github.com/spring-projects/spring-framework/issues/23936
+
+---
+
 # Steps
 
 1.) Run the Spring app, and query the endpoint `GET /test`.
